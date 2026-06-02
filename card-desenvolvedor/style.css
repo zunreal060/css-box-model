@@ -1,0 +1,52 @@
+body{
+background-color: #f0f2f5;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.perfil-card{
+ width: 320px;
+  background-color: #1e293b; /* Azul escuro moderno */
+  color: #ffffff;
+
+ /* BOX MODEL */
+padding: 70px;
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+border: 4px solid #7c3aed; /* Borda roxa destacada */
+}
+
+.foto-placeholder {
+ width: 60px;
+ height: 60px;
+background-color: #7c3aed;
+ color: white;
+ font-size: 24px;
+ font-weight: bold;
+
+/* Centralizando o texto dentro do bloco sem flexbox */
+ padding-top: 15px;
+ height: 45px; /* Ajustado para compensar o padding superior */
+text-align: center;
+
+margin-bottom: 20px;
+}
+
+h1 {
+ font-size: 26px;
+color: #f8fafc;
+margin: 0 0 5px 0; /* Remove margem superior e ajusta a inferior */
+}
+
+.cargo {
+ font-size: 14px;
+color: #a78bfa; /* roxo claro */
+font-weight: bold;
+ margin-bottom: 20px;
+}
+
+.bio{
+ font-size: 15px;
+ color: #cbd5e1; /* Cinza claro para leitura agardavel */
+ line-height: 1.5; /*melhora o espaçamento das linhas */
+}
