@@ -1,0 +1,38 @@
+body {
+background-color:#f8fafc; 
+font-family:Georgia, 'Times New Roman', Times, serif ; 
+}
+
+.depoimento-box{
+ width: 450px;;
+ background-color:#ffffff ;
+
+ padding: 35px;
+margin: 60px auto;
+border: 10px solid #e2e8;
+}
+
+.aspas {
+font: size 60px; 
+color:#cdb5e1 ;
+height:20px ;
+margin-top: 0;
+margin-bottom:0 ;
+}
+
+.texto-depoimento {
+ font-size: 18px;
+font-size: italic ;
+color: #334155;
+line-height: 1.6;
+margin: bottom 25px; ;
+}
+
+.autor{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 14px;
+font-weight: bold;
+color: #64748b;
+text-transform: uppercase;
+margin: 0;
+}
