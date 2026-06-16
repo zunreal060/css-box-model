@@ -1,0 +1,33 @@
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: #ffffff;
+}
+
+.banner-destaque {
+ max-width:650px ;
+ background-color: #fff7ed;
+ color:#451a03;
+
+/* BOX MODEL */
+padding:25px 40px ; /* mais padding nas laterais */
+margin: 40px auto;
+
+/* efeito de destaque apenas na esquerda */
+border-left: 8px solid #ea580c ; /* Laranja vibrante */
+border-top: 0;
+border-right: 0;
+border-bottom: 0;
+}
+
+h1{
+ font-size: 22px;
+margin-top:10px ;
+
+
+}
+
+p{
+   font-size: 16px;
+   line-height: 1.6;
+    margin: 0;
+}
